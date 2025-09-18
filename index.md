@@ -52,3 +52,10 @@ layout: default
 　　对于不想换卡、或使用双卡手机（物理SIM+eSIM）的旅行者，**eSIM**确实是个值得考虑的选项。2025年，巴新两大运营商都**提供eSIM服务**，但购买和激活流程略有不同。
 
 *   **本地运营商eSIM：** 仍需到**运营商门店**购买和实名激活（和物理SIM一样）。好处是能享受本地套餐价格。**痛点在于**，门店分布有限，且店员对eSIM的熟悉程度可能参差不齐
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Papua New Guinea eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/papua-new-guinea-data-plans)
